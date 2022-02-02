@@ -29,9 +29,9 @@
       "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante":{
-      "nome":"Argentina",
-      "forca":5,
-      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "nome":"Colombia",
+      "forca":3,
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
       
   },
@@ -42,14 +42,14 @@
       "imagem":"https://images.app.goo.gl/tJNXvV11VbHusprp8"
     },
     "mandante":{
+      "nome":"Paraguai",
+      "forca":4,
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+    },
+    "visitante":{
       "nome":"Brasil",
       "forca":5,
       "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-    },
-    "visitante":{
-      "nome":"Argentina",
-      "forca":5,
-      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
       
   }
